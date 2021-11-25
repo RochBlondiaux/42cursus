@@ -85,5 +85,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|									|						|		|				    |
 |01		|[get_next_line](https://github.com/rochblondiaux/get_next_line) |C	| 125%              | 
 |01		|[ft_printf](https://github.com/rochblondiaux/ft_printf)|C			| 100%	    |
-|01		|[born2beroot]()			        | Virtual Box						| 	|
+|01		|[born2beroot]()			        | Virtual Box						| 125% 	|
+|:dizzy:|									|						| 	|
+|02		|[fdf](https://github.com/rochblondiaux/fdf)			        | C						| 	|
 |:dizzy:|									|						        |							|
