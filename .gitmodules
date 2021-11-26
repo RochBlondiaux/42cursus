@@ -10,3 +10,6 @@
 [submodule "fdf"]
 	path = fdf
 	url = https://github.com/RochBlondiaux/fdf
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/RochBlondiaux/push_swap
