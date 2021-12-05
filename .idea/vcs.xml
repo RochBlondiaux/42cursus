@@ -6,5 +6,8 @@
     <mapping directory="$PROJECT_DIR$/ft_printf" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/get_next_line" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libft" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minitalk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/push_swap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/push_swap/srcs/libft" vcs="Git" />
   </component>
 </project>

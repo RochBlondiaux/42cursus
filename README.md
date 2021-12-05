@@ -89,4 +89,5 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|									|						| 	|
 |02		|[fdf](https://github.com/rochblondiaux/fdf)			        | C						| 	|
 |02		|[push swap](https://github.com/rochblondiaux/push_swap)			        | C						| 	|
+|02		|[minitalk](https://github.com/rochblondiaux/minitalk)			        | C						| 100%	|
 |:dizzy:|									|						        |							|
