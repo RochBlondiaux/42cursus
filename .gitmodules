@@ -16,3 +16,6 @@
 [submodule "minitalk"]
 	path = minitalk
 	url = https://github.com/rochblondiaux/minitalk
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/RochBlondiaux/philosophers

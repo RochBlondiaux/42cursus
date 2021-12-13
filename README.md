@@ -87,7 +87,10 @@ The table below presents the cursus curriculum in the chronological order in whi
 |01		|[ft_printf](https://github.com/rochblondiaux/ft_printf)|C			| 100%	    |
 |01		|[born2beroot]()			        | Virtual Box						| 125% 	|
 |:dizzy:|									|						| 	|
-|02		|[fdf](https://github.com/rochblondiaux/fdf)			        | C						| 	|
+|02		|[fdf](https://github.com/rochblondiaux/fdf)			        | C						| 125%	|
 |02		|[push swap](https://github.com/rochblondiaux/push_swap)			        | C						| 	|
 |02		|[minitalk](https://github.com/rochblondiaux/minitalk)			        | C						| 100%	|
 |:dizzy:|									|						        |							|
+|03		|[philosophers](https://github.com/RochBlondiaux/philosophers)			        | C						| 	|
+|:dizzy:|									|						        |							|
+
