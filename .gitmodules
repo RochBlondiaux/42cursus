@@ -19,3 +19,6 @@
 [submodule "philosophers"]
 	path = philosophers
 	url = https://github.com/RochBlondiaux/philosophers
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/RochBlondiaux/minishell

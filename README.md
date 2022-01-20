@@ -92,5 +92,6 @@ The table below presents the cursus curriculum in the chronological order in whi
 |02		|[minitalk](https://github.com/rochblondiaux/minitalk)			        | C						| 100%	|
 |:dizzy:|									|						        |							|
 |03		|[philosophers](https://github.com/RochBlondiaux/philosophers)			        | C						| 	|
+|03		|[minishell](https://github.com/RochBlondiaux/minishell)			        | C						| 	|
 |:dizzy:|									|						        |							|
 
