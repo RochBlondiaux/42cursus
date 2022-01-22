@@ -3,10 +3,14 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/fdf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fdf/get_next_line" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fdf/glib" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ft_printf" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/get_next_line" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libft" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minishell" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/minitalk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minitalk/libft" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/philosophers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/push_swap" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/push_swap/libft" vcs="Git" />
