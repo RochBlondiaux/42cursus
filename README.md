@@ -91,7 +91,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |02		|[push swap](https://github.com/rochblondiaux/push_swap)			        | C						| 92%	|
 |02		|[minitalk](https://github.com/rochblondiaux/minitalk)			        | C						| 100%	|
 |:dizzy:|									|						        |							|
-|03		|[philosophers](https://github.com/RochBlondiaux/philosophers)			        | C						| 	|
+|03		|[philosophers](https://github.com/RochBlondiaux/philosophers)			        | C						| 100% |
 |03		|[minishell](https://github.com/RochBlondiaux/minishell)			        | C						| 	|
 |:dizzy:|									|						        |							|
 |04		|[cub3d](https://github.com/RochBlondiaux/cub3d)			        | C						| 	|
